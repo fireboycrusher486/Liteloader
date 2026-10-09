@@ -217,4 +217,4 @@ LiteLoader is provided as a complete free version, ensuring all features and upd
 Unleash the full potential of your Minecraft experience with LiteLoader today! Download now and start customizing your game!
 
 ---
-**Last updated:** 2026-10-08 21:56:47 UTC
+**Last updated:** 2026-10-09 01:58:44 UTC
